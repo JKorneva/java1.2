@@ -1,7 +1,6 @@
 Отчёт о тестировании Credit Card Number Validator
 
 Дата тестирования
-
 05.10.2020-06.10.2020
 
 Было произведено тестирование приложения Credit Card Number Validator
