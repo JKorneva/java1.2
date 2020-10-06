@@ -9,6 +9,7 @@
 На тестирование было затрачено 2,5 часа
 
 В результате тестирования выявлены следующие дефекты:
+
 •	https://github.com/JKorneva/java1.2/issues/2
 •	https://github.com/JKorneva/java1.2/issues/1
 
