@@ -17,7 +17,8 @@
 В процессе тестирования использовались следующие артефакты:
 * Использовала документацию проекта указанную в задании 2 на странице https://github.com/netology-code/javaqa-homeworks/tree/master/intro
 
-В качестве тестовых данных использовались данные со страницы сайта https://www.freeformatter.com/credit-card-number-generator-validator.html
+В качестве тестовых данных использовались данные:
+* со страницы сайта https://www.freeformatter.com/credit-card-number-generator-validator.html
 
 
 Тестирование производилось в следующем окружении:
